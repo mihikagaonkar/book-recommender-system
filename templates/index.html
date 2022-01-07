@@ -15,10 +15,12 @@
     <div class="title">
         Find your next read.
     </div>
-    <div class="search-box">
-        <input class="" type="text">
-        <i class="fas fa-search"></i>
-    </div>
+    <form action="/result" method="POST">
+        <div class="search-box">
+            <input autocomplete="off" class="" type="text" name="book_user_likes">
+            <i class="fas fa-search"></i>
+        </div>
+    </form>
     <div class="center-img">
         <img src="{{ url_for('static',filename='images/kite_runner.jpg') }}" alt="">
     </div>

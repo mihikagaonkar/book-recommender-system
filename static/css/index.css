@@ -4,6 +4,7 @@
 }
 body
 {
+    color: #6e502b;
     background-color:  #f8f3ed    ;
 }
 .title
@@ -38,6 +39,7 @@ body
     outline: none;
     padding: 10px;
     font-size: 20px;
+    color: #6e502b;
 }
 
 .search-box i
