@@ -23,5 +23,7 @@
 
 11. Open another cmd window and run `python database.py`
 
-11. Run `python app.py` to start the application.
+12. Download cos_sim.csv from [here](https://www.kaggle.com/mihikagaonkar/cosine-similarity-csv)
+13.  Run `python app.py` to start the application.
+
 
