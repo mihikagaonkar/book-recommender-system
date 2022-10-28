@@ -1,3 +1,23 @@
+# Book Recommendation System
+An application which suggests books that might interest the users based on what they have liked previously.
+
+<p align="center">
+  <img src="./static/images/book-recommender.png" alt="result" width="80%" />
+</p>
+
+## *Tech-Stack*
+- Machine Learning Libraries
+    - pandas
+    - sklearn
+    - numpy
+- Elastic Stack
+    - Elasticsearch
+    - Logstash
+- Frontend
+    - HTML
+    - CSS
+- Backend
+    - Flask
 ## *Setup*
 
 1. Download Python 3.
